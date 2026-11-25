@@ -130,17 +130,12 @@ FinVQA and FIND are intended for research and evaluation, not personalized finan
 If you use FinVQA or FIND in your research, please cite our paper. Author order below follows the published PDF.
 
 ```bibtex
-@inproceedings{das-etal-2026-find,
-  title     = {{FIND}: Toward Multimodal Financial Reasoning and Question Answering for {Indic} Languages},
-  author    = {Das, Sarmistha and Vishal, Vaibhav and Ahmad, Syed Ibrahim and Gupta, Manish and Saha, Sriparna},
-  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
-  year      = {2026},
-  month     = jul,
-  pages     = {32750--32770},
-  publisher = {Association for Computational Linguistics},
-  address   = {San Diego, California, United States},
-  doi       = {10.18653/v1/2026.findings-acl.1639},
-  url       = {https://aclanthology.org/2026.findings-acl.1639/}
+@inproceedings{das2026find,
+  title={FIND: Toward Multimodal Financial Reasoning and Question Answering for Indic Languages},
+  author={Das, Sarmistha and Vishal, Vaibhav and Ahmad, Syed Ibrahim and Saha, Sriparna and Gupta, Manish},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  pages={32750--32770},
+  year={2026}
 }
 ```
 
