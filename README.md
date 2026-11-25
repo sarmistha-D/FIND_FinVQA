@@ -56,8 +56,8 @@ FinVQA is designed to evaluate financial knowledge, numerical computation, and v
 | Dimension | Coverage |
 | :--- | :--- |
 | Total instances | 18,900 |
-| Text-only | 15,114 (80.0%) |
-| Text + image | 3,786 (20.0%) |
+| Text-only | 15,114|
+| Text + image | 3,786 |
 | Difficulty | Easy: 6,282 · Moderate: 6,384 · Hard: 6,234 |
 | Formats | Multiple choice · Fill-in-the-blank · Table matching · True/false |
 | Languages | English, Hindi, Bengali, Marathi, Gujarati, Tamil |
