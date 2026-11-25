@@ -6,7 +6,7 @@
 
 **Bridging finance, vision, language, and numerical reasoning**
 
-**Sarmistha Das\** · **Vaibhav Vishal\** · **Syed Ibrahim Ahmad\** · Manish Gupta · Sriparna Saha
+Sarmistha Das · Vaibhav Vishal · **Syed Ibrahim Ahmad · Manish Gupta · Sriparna Saha
 
 Indian Institute of Technology Patna, India · Microsoft, India
 
